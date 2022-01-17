@@ -1,2 +1,2 @@
-# Repo1-Tutorial
+# RepoTutorial
 Temporary repository to learn how to use git and github
